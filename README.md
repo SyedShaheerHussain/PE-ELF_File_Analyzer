@@ -21,6 +21,23 @@ The **Universal File Analyzer v4 PRO** is an advanced desktop application design
 It combines multiple analysis engines into a single interface supporting both **binary files and document formats**.
 
 ---
+## 📸 Screenshots
+
+![Screenshot 1](https://github.com/SyedShaheerHussain/PE-ELF_File_Analyzer/blob/main/PE-ELF_File_Analyzer/screenshots/Screenshot%20(167).png)
+
+![Screenshot 2](https://github.com/SyedShaheerHussain/PE-ELF_File_Analyzer/blob/main/PE-ELF_File_Analyzer/screenshots/Screenshot%20(168).png)
+
+![Screenshot 3](https://github.com/SyedShaheerHussain/PE-ELF_File_Analyzer/blob/main/PE-ELF_File_Analyzer/screenshots/Screenshot%20(169).png)
+
+![Screenshot 4](https://github.com/SyedShaheerHussain/PE-ELF_File_Analyzer/blob/main/PE-ELF_File_Analyzer/screenshots/Screenshot%20(174).png)
+
+![Screenshot 5](https://github.com/SyedShaheerHussain/PE-ELF_File_Analyzer/blob/main/PE-ELF_File_Analyzer/screenshots/Screenshot%20(175).png)
+
+![Screenshot 6](https://github.com/SyedShaheerHussain/PE-ELF_File_Analyzer/blob/main/PE-ELF_File_Analyzer/screenshots/Screenshot%20(176).png)
+
+![Screenshot 7](https://github.com/SyedShaheerHussain/PE-ELF_File_Analyzer/blob/main/PE-ELF_File_Analyzer/screenshots/Screenshot%20(177).png)
+
+![Screenshot 8](https://github.com/SyedShaheerHussain/PE-ELF_File_Analyzer/blob/main/PE-ELF_File_Analyzer/screenshots/Screenshot%20(178).png)
 
 # 🎯 Objectives
 
@@ -102,7 +119,7 @@ universal_analyzer_v4/
 
 ```bash
 git clone https://github.com/syedshaheerhussain/universal-file-analyzer.git
-cd universal-file-analyzer
+cd PE-ELF_File_Analyzer
 ````
 
 ---
