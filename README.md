@@ -1,4 +1,4 @@
-# 🧠 Universal File Analyzer v4 PRO
+# 🧠 File Analyzer (Reverse Engineering)
 
 A powerful **reverse engineering + forensic file analysis tool** built with Python and PySide6.  
 This tool allows users to analyze **executables, documents, and multiple file types** in a single modern GUI.
